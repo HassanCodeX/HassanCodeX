@@ -4,12 +4,15 @@ I'm a passionate software developer from Mumbai, India, and I love building cool
 ---
 
 ### 🚀 **Tech Stack**
-- **Backend**: Django, FastAPI, Express.js, Node.js
-- **Frontend**: React.js, Next.js, Vite, TailwindCSS
-- **Cloud**: AWS (EC2, S3, Lambda, Route53), Some of GCP
-- **DevOps**: Docker, GitHub Actions, Jenkins
-- **Databases**: PostgreSQL, MySQL, Firebase
-- **Tools**: LangChain, n8n, Redis, Kafka
+
+| **Category**    | **Technologies**                                                         |
+|-----------------|---------------------------------------------------------------------------|
+| **Backend**     | Django, FastAPI, Express.js, Node.js                                      |
+| **Frontend**    | React.js, Next.js, Vite, TailwindCSS                                      |
+| **Cloud**       | AWS (EC2, S3, Lambda, Route53), GCP (Cloud Functions, Firestore)           |
+| **DevOps**      | Docker, GitHub Actions, Jenkins                                           |
+| **Databases**   | PostgreSQL, MySQL, Firebase                                               |
+| **Tools**       | LangChain, n8n, Redis, Kafka                                             |
 
 ---
 
