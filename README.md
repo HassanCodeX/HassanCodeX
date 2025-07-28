@@ -1,11 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?Developer=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Senior+Software-Stack+Developer+%F0%9F%9A%80;AI%2FML+Engineer+%F0%9F%A4%96;Cloud+Architecture+Specialist+%E2%98%81%EF%B8%8F;3%2B+Years+Building+Scalable+Solutions+%F0%9F%92%A1)](https://git.io/typing-svg)
-
 ## 🎯 About Me
 
 ```python
 class HassanAnsari:
     def __init__(self):
-        self.role = "Senior Full-Stack Developer & AI Engineer"
+        self.role = "Senior Software Developer With Gen AI"
         self.location = "Mumbai, India"
         self.experience = "3+ years"
         self.passion = ["Full-Stack Development", "Gen AI", "Cloud/DevOps", "System Design"]
